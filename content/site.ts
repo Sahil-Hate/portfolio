@@ -5,7 +5,7 @@ export const site = {
   location: "San Francisco Bay Area",
   email: "hate@usc.edu",
   github: "https://github.com/Sahil-Hate",
-  linkedin: "https://linkedin.com/in/sahil-hate",
+  linkedin: "https://www.linkedin.com/in/sahilhate/",
   resume: "/Sahil_Hate_Resume.pdf",
   // TODO: replace with your real production domain before deploying
   url: "https://sahil-hate.vercel.app",
